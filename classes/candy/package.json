@@ -1,0 +1,43 @@
+{
+  "name": "candy",
+  "version": "2.2.0",
+  "description": "Multi-user XMPP web client",
+  "main": "candy.min.js",
+  "directories": {
+    "doc": "docs",
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/candy-chat/candy.git"
+  },
+  "keywords": [
+    "xmpp",
+    "muc",
+    "multi-user",
+    "websocket",
+    "bosh",
+    "chat"
+  ],
+  "contributors": [
+    {
+      "name": "Michael Weibel",
+      "email": "michael.weibel@gmail.com"
+    },
+    {
+      "name": "Patrick Stadler",
+      "email": "patrick.stadler@gmail.com",
+      "url": "http://pstadler.sh"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/candy-chat/candy/issues"
+  },
+  "homepage": "http://candy-chat.github.io/candy/",
+  "devDependencies": {
+  }
+}
